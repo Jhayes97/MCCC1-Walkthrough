@@ -1,5 +1,5 @@
 # MCCC1-Walkthrough
-Complete walkthrough of Montgomery College's CTF -- Sponsored by UMUC and Parsons
+Complete Walkthrough of Montgomery College's CTF, the event sponsored by UMUC and Parsons 
 
 
 
