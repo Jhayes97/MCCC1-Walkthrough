@@ -2,7 +2,7 @@
 This challenge is essentially "What does that even mean, I'll google that." It's a lot simpler than it sounds.
 
 # Prompt
-https://github.com/Jhayes97/MCCC1-Walkthrough/blob/master/src/tet1.PNG
+
 ![alt text](https://github.com/Jhayes97/MCCC1-Walkthrough/blob/master/src/tet1.PNG "Tetra")
 
 # Guide
