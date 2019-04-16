@@ -33,4 +33,4 @@ Plugging in our vulnerable URL with `--dump` at the end, we let sqlmap run.
 
 It succesfully dumps the database, and we find our flag in the notes table
 
-** flag{reta1n3rs_hur7} **
+**flag{reta1n3rs_hur7}**
